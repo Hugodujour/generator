@@ -2,7 +2,7 @@ const arr = ["Ton daron", "Ta daronne", "Ton frère", "Ta soeur", "Ton cousin", 
 const arr2 = ["effraie", "mange", "pousse", "devient", "boit", "ressemble à", "effraie", "fabrique", "travaille pour", "crache sur", "vole", "colle", "se repose sur", "dort avec"]
 const arr3 = ["un canard", "un chien", "un chat", "un poulpe", "un gros thon", "un bol", "un jus de pomme", "Ludo", "40 voleurs", "un magicien", "Larry l'acrobate", "un arbre", "deux francs", "la France", "une tendinite", "un bras en mousse", "sa langue", "son genou", "tes pieds", "toute ta famille"]
 const arr4 = ["en Thaïlande.", "!", "en obésité morbide.", "et ça fait peur.", ", perso j'aurais jamais osé.", "et ça me déçoit...", ", wow !", ", ambiance...", "en plastique.", "en bois.", "de toutes ses forces.", "en bonne santé.", "et ça lui plaît.", "sans aucune gêne.", "sans flancher.", ", ça se fait pas...", ", mais a quel prix ?", "de la seconde guerre mondiale.", "devant tout le monde.", "sans aide.", "avec un pote."]
-const arrImg = ["/img/1.jpg","/img/2.jpg", "/img/3.jpg", "/img/4.jpg", "/img/5.jpg", "/img/6.jpg", "/img/7.jpg", "/img/8.jpg", "/img/9.jpg", "/img/10.jpg"]
+const arrImg = ["img/1.jpg","img/2.jpg", "img/3.jpg", "img/4.jpg", "img/5.jpg", "img/6.jpg", "img/7.jpg", "img/8.jpg", "img/9.jpg", "img/10.jpg"]
 
 const rand = (arr) => {
   const max = arr.length
